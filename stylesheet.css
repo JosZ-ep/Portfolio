@@ -1,0 +1,67 @@
+body {
+    background-color: #e5edfa;
+}
+
+.Container {
+    border: 5px solid #2e3e6d;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 100px;
+
+}
+
+
+#PFP {
+    border-radius: 50%;
+    border: 5px solid #2e3e6d;
+    margin: 20px;
+    
+}
+
+.Icon {
+    height: 50px;
+    width:50px;
+}
+.One{
+    display:flex;
+    flex-direction: row;
+    border: 5px solid #2e3e6d;
+    border-radius: 10%;
+    align-items: top;
+
+}
+
+.Two {
+    display:flex;
+    flex-direction: column;
+    
+    height: 75px;
+    flex:1;
+    margin: 10px;
+    margin-top: 40px;
+    align-items: left;
+    
+    
+}
+.Three {
+    display:flex;
+    flex-direction: column;
+    border: 5px solid #2e3e6d;
+    
+    flex:1;
+    margin:10px;
+    border-radius: 10px;
+    align-items:center;
+}
+
+.Four {
+    display:flex;
+    flex-direction: row;
+    border: 5px solid #2e3e6d;
+    
+    flex:1;
+    margin-bottom: 10px;
+    margin-left:10px;
+    border-radius: 10px;
+    align-items: center;
+}
