@@ -45,10 +45,9 @@ Each project will have its own information, screenshots, and details about what 
 Some examples include:
 
 - **TFL Stadium**
-- **GC Stadium #1**
-- **GC Stadium #2**
-- **GC EFA Stadium #1**
-- **GC EFA Stadium #2**
+- **GCA STADUIMS**
+- **EFA STADUIMS**
+
 
 And more projects will be added as I work on them.
 
